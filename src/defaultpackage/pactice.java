@@ -7,7 +7,7 @@ public class pactice {
 		System.out.println("learning code");
 		System.out.println("wafa 5");
 		
-		
+		System.out.println("wafa 7");
 		System.out.println("change in jc loginpage ve");
 
 	}
