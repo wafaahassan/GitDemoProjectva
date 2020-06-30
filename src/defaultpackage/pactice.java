@@ -3,7 +3,7 @@ package defaultpackage;
 public class pactice {
 
 	public static void main(String[] args) {
-		System.out.println("my mane is w");
+		System.out.println("my name is w");
 		System.out.println("learning code");
 		System.out.println("wafa 5");
 		
