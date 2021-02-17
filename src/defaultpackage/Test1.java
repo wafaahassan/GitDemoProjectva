@@ -9,7 +9,7 @@ public class Test1 {
 	 else {
 		 System.out.println("Do work.......");
 		 System.out.println(" Read book");
-		 System.out.println("Practice ....");
+		 System.out.println("Practice ....!!!");
 	 }
 
 	}
