@@ -10,8 +10,13 @@ public class Test1 {
 		 System.out.println("Do work.......");
 		 System.out.println(" Read book");
 		 System.out.println("Practice ....!!!");
+		 
 	 }
 
 	}
+	
+	public void shutdown() {
 
+		
+}
 }
